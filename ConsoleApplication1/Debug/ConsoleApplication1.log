@@ -1,0 +1,13 @@
+﻿  ConsoleApplication1.cpp
+E:\Info\Roman-Arab\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(97,22): warning C4305: 'argument': truncation from 'int' to '_Elem'
+          with
+          [
+              _Elem=char
+          ]
+E:\Info\Roman-Arab\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(97,18): warning C4309: 'argument': truncation of constant value
+E:\Info\Roman-Arab\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
+E:\Info\Roman-Arab\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(139,16): warning C4018: '<': signed/unsigned mismatch
+E:\Info\Roman-Arab\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(144,16): warning C4018: '<': signed/unsigned mismatch
+E:\Info\Roman-Arab\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(149,16): warning C4018: '<': signed/unsigned mismatch
+E:\Info\Roman-Arab\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(261,14): warning C4101: 'e': unreferenced local variable
+  ConsoleApplication1.vcxproj -> E:\Info\Roman-Arab\ConsoleApplication1\Debug\ConsoleApplication1.exe
